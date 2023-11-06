@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KavanAnselm
+- 👀 I’m interested in artificial intelligence
+- 🌱 I’m currently learning java
+- 📫 You can reach me through linkedin, discord, instagram or gmail
